@@ -30,7 +30,7 @@
   },
   "scripts": {
     "test": "grunt test",
-    "postinstall": "node ./node_modules/bower/bin/bower install"
+    "postinstall": "npm install && bower install"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",

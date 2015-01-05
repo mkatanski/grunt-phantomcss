@@ -2,7 +2,7 @@
   "name": "grunt-phantomcss",
   "description": "Plugin to do CSS regression testing via PhantomCSS.",
   "version": "0.2.3",
-  "homepage": "https://github.com/mkatanski/grunt-phantomcss",
+  "homepage": "https://github.com/chrisgladd/grunt-phantomcss",
   "author": {
     "name": "Chris Gladd",
     "email": "chris.m.gladd@gmail.com"
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mkatanski/grunt-phantomcss.git"
+    "url": "git://github.com/chrisgladd/grunt-phantomcss.git"
   },
   "bugs": {
     "url": "https://github.com/chrisgladd/grunt-phantomcss/issues"
